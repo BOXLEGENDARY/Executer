@@ -1,0 +1,47 @@
+package k0.BAKp;
+
+public class xAQOwX {
+    public static String AJqlwuj = "ENABLED";
+    public static String BDlVsNwlOAfUOw = "MATCH_PARENT";
+    public static String CKyYzsse = "canceled";
+    public static String FcnquoHvhFGXVKE = "DefaultSurfaceProcessor";
+    public static String FqNbHK = "/profile/";
+    public static String GDEkHPbl = "Cannot begin use on a closed surface.";
+    public static String GJtxoUFXVyawzyQ = "U";
+    public static String GVHocWPQ = "PENDING_PAUSED";
+    public static String GkMIMl = "durationMs";
+    public static String KEzs = "MilkyWay-Payments-Api-V1-Verify-Response-500";
+    public static String KPeMaMfttc = "af_send_exc_to_server_window";
+    public static String Kwm = "content-range";
+    public static String LJRLIKblUycONTH = "window.decorView";
+    public static String MQN = "Error turning string to SHA-256 byte array";
+    public static String MsGjljSXIAhSJd = "results: ";
+    public static String NvsQiyrlZkYn = "Variable name in FOR_OF must be a string";
+    public static String OUTGFErXIa = "\n";
+    public static String TTqjS = "]";
+    public static String VOOD = "UseAndroidGooglePaymentsProtocol3";
+    public static String WtOJfKDqnMn = " has ended.";
+    public static String WulxPabMuT = "_id";
+    public static String XKdutEfcxOXgU = "Invalid EnumSet type: ";
+    public static String XLypOUPZdKYQFR = "missing label";
+    public static String YQrRosTq = "EXTRA_CATEGORY";
+    public static String axL = "FragmentManager";
+    public static String cTeNUdKtxGaNka = "ON_DEVICE_POSE_LOAD";
+    public static String dDvzPLRE = "TLS_FALLBACK_SCSV";
+    public static String fHhlqtRYQmEXmti = ", ";
+    public static String fMsxsgjOfcmqN = "<ByteString@%s size=%d contents=\"%s\">";
+    public static String hXAvSdPZcbrIEzo = "type";
+    public static String heQC = "ro.build.user";
+    public static String ivc = "body";
+    public static String jmuhddAEbajRkjS = "direction must be one of {FOCUS_UP, FOCUS_DOWN, FOCUS_LEFT, FOCUS_RIGHT}.";
+    public static String oZYOg = "Error storing conditional user property";
+    public static String omMYlGh = "AGGREGATED_ON_DEVICE_POSE_DETECTION";
+    public static String pKCTDHSg = "internal representation of views on the screen";
+    public static String seMGmsxPkNyu = "^(\\d{4})-(\\d{2})-(\\d{2})\\s(\\d{2}):(\\d{2}):(\\d{2})$";
+    public static String tmb = "BITWISE_RIGHT_SHIFT";
+    public static String uiIwCa = "getType: ";
+    public static String wgHWqPgcvRYI = "sink";
+    public static String whB = "Attached camera cannot be null";
+    public static String xmLejuD = "google.c.";
+    public static String zLBvNEPUaWP = "AsyncTask";
+}

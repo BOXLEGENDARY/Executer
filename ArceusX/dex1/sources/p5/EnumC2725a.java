@@ -1,0 +1,10 @@
+package p5;
+
+public enum EnumC2725a {
+    FACE_DETECTION,
+    SMART_REPLY,
+    TRANSLATE,
+    ENTITY_EXTRACTION,
+    TOXICITY_DETECTION,
+    IMAGE_CAPTIONING
+}

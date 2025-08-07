@@ -1,0 +1,35 @@
+package android.view;
+
+import android.window.BackEvent;
+import com.github.luben.zstd.BuildConfig;
+import kotlin.Metadata;
+import kotlin.jvm.internal.Intrinsics;
+
+@Metadata(d1 = {"\u0000\"\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u0007\n\u0002\b\u0004\n\u0002\u0010\b\n\u0002\b\u0003\bÁ\u0002\u0018\u00002\u00020\u0001B\t\b\u0002¢\u0006\u0004\b\u0002\u0010\u0003J\u0015\u0010\u0007\u001a\u00020\u00062\u0006\u0010\u0005\u001a\u00020\u0004¢\u0006\u0004\b\u0007\u0010\bJ\u0015\u0010\t\u001a\u00020\u00062\u0006\u0010\u0005\u001a\u00020\u0004¢\u0006\u0004\b\t\u0010\bJ\u0015\u0010\n\u001a\u00020\u00062\u0006\u0010\u0005\u001a\u00020\u0004¢\u0006\u0004\b\n\u0010\bJ\u0015\u0010\f\u001a\u00020\u000b2\u0006\u0010\u0005\u001a\u00020\u0004¢\u0006\u0004\b\f\u0010\r¨\u0006\u000e"}, d2 = {"Landroidx/activity/a;", BuildConfig.FLAVOR, "<init>", "()V", "Landroid/window/BackEvent;", "backEvent", BuildConfig.FLAVOR, "a", "(Landroid/window/BackEvent;)F", "c", "d", BuildConfig.FLAVOR, "b", "(Landroid/window/BackEvent;)I", "activity_release"}, k = 1, mv = {1, 8, 0}, xi = 48)
+public final class C1587a {
+
+    public static final C1587a f8449a = new C1587a();
+
+    private C1587a() {
+    }
+
+    public final float a(BackEvent backEvent) {
+        Intrinsics.checkNotNullParameter(backEvent, "backEvent");
+        return backEvent.getProgress();
+    }
+
+    public final int b(BackEvent backEvent) {
+        Intrinsics.checkNotNullParameter(backEvent, "backEvent");
+        return backEvent.getSwipeEdge();
+    }
+
+    public final float c(BackEvent backEvent) {
+        Intrinsics.checkNotNullParameter(backEvent, "backEvent");
+        return backEvent.getTouchX();
+    }
+
+    public final float d(BackEvent backEvent) {
+        Intrinsics.checkNotNullParameter(backEvent, "backEvent");
+        return backEvent.getTouchY();
+    }
+}

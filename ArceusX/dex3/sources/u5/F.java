@@ -1,0 +1,11 @@
+package u5;
+
+import com.roblox.client.personasdk.R;
+import kotlin.Metadata;
+
+@Metadata(d1 = {"\u0000\f\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0003\u0018\u00002\u00020\u0001B\u0007¢\u0006\u0004\b\u0002\u0010\u0003¨\u0006\u0004"}, d2 = {"Ll8/F;", "Ll8/i;", "<init>", "()V", "camera_release"}, k = 1, mv = {1, R.styleable.LottieAnimationView_lottie_progress, 0}, xi = 48)
+public final class F extends AbstractC0622i {
+    public F() {
+        super(null);
+    }
+}

@@ -1,0 +1,42 @@
+package W0.JWp;
+
+public class kNUgEaOjcPdX {
+    public static String BGCHgwnhzuJtlm = "Unique event name must be defined!";
+    public static String DestAxVZXadL = "client_failure";
+    public static String GoCyF = "Processing result using custom event";
+    public static String HaoaFxbYVH = "CODE_93";
+    public static String JrktVbtp = "SFIXED64_LIST_PACKED";
+    public static String KUKKkVVIqVO = "dstBuff must be a direct buffer";
+    public static String QCZcDwBlFXEYqm = "elements";
+    public static String QcLsIDn = "os_update";
+    public static String SRTITkse = "Service invalid";
+    public static String TsBdlZedZxeuTP = "options";
+    public static String UensF = "Cold start detected. Base intent is ActivitySplash.";
+    public static String VEvdD = "sent";
+    public static String VmyVoRr = "missing_contacts_access";
+    public static String YbBpvmjt = "Recorder";
+    public static String aQXEYXWksEoSiPY = "Surface terminated";
+    public static String bGVG = "games";
+    public static String bve = "plat";
+    public static String cBNylpDYXhHQdkp = "com.google.common.base.Strings";
+    public static String fQvorV = "nlClassifierClientLibraryLogEvent";
+    public static String hQaSVLUxcPc = "X.509";
+    public static String iYeVBbZ = "Processing result using custom event";
+    public static String jKNiJ = "_nmid";
+    public static String jYlFTwsuijCP = "cameraSource";
+    public static String kcMbWLYABJGgAaY = "IN_APP_MESSAGE_RESPONSE_CODE";
+    public static String mdZeby = "factory";
+    public static String mxhuaAwSE = "splitInstallManager";
+    public static String nHKKNtCd = "com.google.android.gms.common.internal.IGmsCallbacks";
+    public static String oeQkqjwZxrGTm = "android:visibility:screenLocation";
+    public static String pBJmJDqGk = "com.roblox.robloxmobile.premium265subscribed";
+    public static String pOIc = "Control frames must be final.";
+    public static String piBxHpZM = "resettable_device_id_hash";
+    public static String qAXPSc = "ValidatingBuilder";
+    public static String rEBGjDstu = "SUCCESS, result=[";
+    public static String rjZqATELrjhg = ")";
+    public static String rxVcbezTz = "}]";
+    public static String tWyDfCH = " not permitted by network security policy";
+    public static String uHc = "com.roblox.robloxmobile.premium4500robux";
+    public static String vTbFn = "ga_screen_class";
+}

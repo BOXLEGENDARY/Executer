@@ -1,0 +1,44 @@
+package V8;
+
+public final class g {
+    public static final int A = -2130378560;
+    public static final int B = -2130378559;
+    public static final int C = -2130378555;
+    public static final int D = -2130378553;
+    public static final int E = -2130378543;
+    public static final int F = -2130378538;
+    public static final int G = -2130378533;
+    public static final int H = -2130378523;
+    public static final int I = -2130378512;
+    public static final int J = -2130378501;
+    public static final int K = -2130378500;
+    public static final int L = -2130378499;
+    public static final int M = -2130378495;
+    public static final int N = -2130378485;
+    public static final int a = -2130378736;
+    public static final int b = -2130378727;
+    public static final int c = -2130378726;
+    public static final int d = -2130378725;
+    public static final int e = -2130378720;
+    public static final int f = -2130378719;
+    public static final int g = -2130378717;
+    public static final int h = -2130378698;
+    public static final int i = -2130378692;
+    public static final int j = -2130378690;
+    public static final int k = -2130378688;
+    public static final int l = -2130378660;
+    public static final int m = -2130378641;
+    public static final int n = -2130378640;
+    public static final int o = -2130378639;
+    public static final int p = -2130378638;
+    public static final int q = -2130378620;
+    public static final int r = -2130378619;
+    public static final int s = -2130378614;
+    public static final int t = -2130378613;
+    public static final int u = -2130378608;
+    public static final int v = -2130378606;
+    public static final int w = -2130378605;
+    public static final int x = -2130378589;
+    public static final int y = -2130378586;
+    public static final int z = -2130378579;
+}

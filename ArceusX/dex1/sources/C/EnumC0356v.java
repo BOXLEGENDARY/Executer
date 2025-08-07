@@ -1,0 +1,11 @@
+package C;
+
+public enum EnumC0356v {
+    UNKNOWN,
+    INACTIVE,
+    SCANNING,
+    PASSIVE_FOCUSED,
+    PASSIVE_NOT_FOCUSED,
+    LOCKED_FOCUSED,
+    LOCKED_NOT_FOCUSED
+}
